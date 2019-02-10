@@ -140,10 +140,10 @@ public class Main extends Application {
             if (key.getCode() == KeyCode.DIGIT2) {
                 buttonOut2.fire();
             }
-            if (key.getCode() == KeyCode.DIGIT2) {
+            if (key.getCode() == KeyCode.DIGIT3) {
                 buttonOut3.fire();
             }
-            if (key.getCode() == KeyCode.DIGIT2) {
+            if (key.getCode() == KeyCode.DIGIT4) {
                 buttonOut4.fire();
             }
             if (key.getCode() == KeyCode.ENTER) {
